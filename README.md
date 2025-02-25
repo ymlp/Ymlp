@@ -1,5 +1,5 @@
 ## Aluno de ADS na FATEC que busca aprender cada vez mais todos os dias!!!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ymlp&show_icons=true)
 <!--
 **ymlp/Ymlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
