@@ -10,9 +10,6 @@
       <td>
         <a href="https://www.linkedin.com/in/yuri-matheus-lago-philomeno-026b38180/">Linkedin</a>
       </td>
-      <td>
-        <img src="15713420.png" width="40">
-      </td>
     
     </tr>
   </table>
