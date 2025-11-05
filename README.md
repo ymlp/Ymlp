@@ -13,9 +13,7 @@
       <td>
         <img src="15713420.png" width="40">
       </td>
-      <td>
-        <a href="https://www.instagram.com/yurilagoph/">Instagram</a>
-      </td>
+    
     </tr>
   </table>
 
