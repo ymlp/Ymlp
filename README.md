@@ -10,8 +10,6 @@
       <td>
         <a href="https://www.linkedin.com/in/yuri-matheus-lago-philomeno-026b38180/">Linkedin</a>
       </td>
-    
-    </tr>
   </table>
 
    <h3>💻 Linguagens mais utilizadas</h3>
